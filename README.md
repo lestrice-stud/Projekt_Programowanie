@@ -1,10 +1,10 @@
 ## Projekt_Programowanie
-Cel projektu: Przewidywanie depresji u studentów 
-Dane:
-Liczba rekordów: 27901
-liczba zmiennych: 18
-Typy danych:
-  zmienne liczbowe: 10 kolumn
+Cel projektu: Przewidywanie depresji u studentów   
+Dane:  
+Liczba rekordów: 27901  
+Liczba zmiennych: 18  
+Typy danych:  
+  zmienne liczbowe: 10 kolumn  
   zmienne kategoryczne: 8 kolumn
 
 Kroki:  
