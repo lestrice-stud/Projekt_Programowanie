@@ -7,7 +7,7 @@ Typy danych:
   zmienne liczbowe: 10 kolumn  
   zmienne kategoryczne: 8 kolumn
 
-## Kroki:  
+# Kroki:  
 Analiza danych  
 Czyszczenie danych  
 Normalizacja danych i podział na dane testowe i treningowe  
